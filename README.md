@@ -5,8 +5,8 @@
 ### Author: Steven Jones
 
 ### Links and Resources
-* [submission PR]()
-* [travis]()
+* [submission PR](https://github.com/colosrjones-401d4/lab-03/tree/editfile)
+* [travis](https://travis-ci.org/colosrjones-401d4/lab-03)
 
 
 ### Modules
